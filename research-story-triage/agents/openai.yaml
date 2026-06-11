@@ -1,0 +1,5 @@
+interface:
+  display_name: Research Story Triage
+  short_description: Evaluates research directions, evidence chains, figure logic, and claim boundaries across disciplines, with a soil carbon and microbiome profile.
+  icon: "🔬"
+  brand_color: "#2F6B4F"
