@@ -91,3 +91,11 @@ The skill selects exactly one main story by default, with at most one backup sto
 ## GitHub Description
 
 Cross-disciplinary research story triage skill for evaluating scientific questions, evidence chains, figure logic, and claim boundaries, with a specialized profile for soil carbon cycling and soil microbiome research.
+
+## 支持作者
+
+如果这个 Skill 对你有帮助，欢迎 Star，也欢迎打赏支持后续更新。
+
+| 微信打赏 | 支付宝打赏 |
+|---|---|
+| <img src="./assets/wechat-reward.jpg" width="220" alt="微信收款码"> | <img src="./assets/alipay-reward.jpg" width="220" alt="支付宝收款码"> |
