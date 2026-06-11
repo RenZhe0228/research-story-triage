@@ -99,5 +99,5 @@ Cross-disciplinary research story triage skill for evaluating scientific questio
 
 | 微信打赏 | 支付宝打赏 |
 |---|---|
-| <img width="1080" height="1620" alt="zhifubao" src="https://github.com/user-attachments/assets/cf7987b4-608e-4b29-84ab-b1dfbfd60dfe" />
-|<img width="1200" height="1622" alt="weixin" src="https://github.com/user-attachments/assets/4435d0cb-f200-4598-a852-6cf4d727d8f4" /> |
+| <img width="220" height="220" alt="zhifubao" src="https://github.com/user-attachments/assets/cf7987b4-608e-4b29-84ab-b1dfbfd60dfe" />
+|<img width="220" height="222" alt="weixin" src="https://github.com/user-attachments/assets/4435d0cb-f200-4598-a852-6cf4d727d8f4" /> |
